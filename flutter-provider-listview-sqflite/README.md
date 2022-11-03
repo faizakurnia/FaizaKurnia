@@ -3,9 +3,9 @@
 Challenge untuk UTS Kerjakan salah satu saja 100 :
 
 1. Tambahkan fitur untuk validasi input di tambah task.
-- <img src="./ss/1.png">
+- <img src="./ss/1.PNG">
 2. Tambahkan fitur untuk disable button tambah task jika validasi input masih error.
-- <img src="./ss/2.png">
+- <img src="./ss/2.PNG">
 3. Tambahkan fitur swipe left delete task
 - <img src="./ss/3.png">
 4. Tambahkan fitur swipe right go to edit task page
